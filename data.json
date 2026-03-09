@@ -1,6 +1,6 @@
 {
    "__DISCLAIMER": "Some features are disabled for a reason, as they are most likely PATCHED and will kick/ban you if used! I am not responsible for any damage caused to your account if you choose to edit this file.",
-  
+   "__VERSION": 3.0
    "features": {
      
       "auto-generator": {
