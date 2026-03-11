@@ -36,6 +36,7 @@ Input.TextColor3 = Color3.fromRGB(0, 0, 0)
 Input.TextScaled = true
 Input.TextSize = 14.000
 Input.TextWrapped = true
+Input.ClearTextOnFocus = false
 Load.Name = "Load"
 Load.Parent = UI
 Load.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
